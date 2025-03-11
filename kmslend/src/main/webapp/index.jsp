@@ -75,7 +75,7 @@
     <div class="login-container">
         <h2>Login</h2>     
         <!-- Formulário de login que envia os dados para a rota /login -->
-        <form action="/cadastroproduto" method="post">
+        <form action="cadastroproduto.jsp" method="post">
             <label for="email">E-mail:</label>
             <input type="email" id="email" name="email" required>
 
